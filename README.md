@@ -1,2 +1,2 @@
 # Python-
-Practicals
+Pyhton Practicals
